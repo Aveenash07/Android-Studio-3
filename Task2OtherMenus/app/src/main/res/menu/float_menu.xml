@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/downlaod"
+        android:title="Download Image"/>
+
+    <item
+        android:id="@+id/open"
+        android:title="Open Image in new Tab"/>
+
+    <item
+        android:id="@+id/search"
+        android:title="Search google for this image"/>
+
+    <item
+        android:id="@+id/share"
+        android:title="Share Image"/>
+
+
+</menu>

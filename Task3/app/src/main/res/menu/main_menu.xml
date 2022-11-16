@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/on"
+        android:title="Music ON"
+        android:icon="@drawable/sound"
+        app:showAsAction= "always" />
+
+    <item
+        android:id="@+id/off"
+        android:title="Music Off"
+        android:icon="@drawable/mute"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/speak"
+        android:title="Speak"
+        android:icon="@drawable/rumor"
+
+        app:showAsAction="always" />
+
+</menu>
